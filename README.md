@@ -1,5 +1,13 @@
 # Fruit-classifier
 This project builds a fruit image classification system using CNNs with a ResNet architecture. Trained on the Fruits 360 dataset (90,000+ images), the model learns visual patterns effectively and achieves 99% accuracy, serving as a strong introduction to deep learning and computer vision.
+## 📓 Jupyter Notebook
+
+GitHub may not render the notebook due to size/output limitations.  
+View the notebook using nbviewer:
+
+🔗 https://nbviewer.org/github/Kunjan1911/Fruit-classifier/blob/main/_Fruit%20Classification%20using%20CNN%20(2).ipynb
+
+
 📌 Overview
 
 This project focuses on building a fruit image classification system using Deep Learning and Convolutional Neural Networks (CNNs). It is my first Machine Learning project and aims to classify different fruits from images with high accuracy by learning visual features automatically.
